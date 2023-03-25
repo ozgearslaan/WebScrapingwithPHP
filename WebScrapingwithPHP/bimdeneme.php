@@ -4,7 +4,7 @@ class dbsetting {
        public $host     = "localhost";
        public $dbname   = "bim";
        public $user     = "postgres";
-       public $password = "ikinokta";
+       public $password = "***";
 }
 
 class capture extends dbsetting{
